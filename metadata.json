@@ -1,0 +1,6 @@
+{
+  "name": "Lengua Castellana — Preparación para el examen",
+  "description": "Aplicación interactiva completa de preparación para el examen de Lengua Castellana y Literatura de 1.º ESO con explicaciones detalladas, análisis sintáctico paso a paso, más de 250 preguntas y traducción al armenio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
